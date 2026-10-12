@@ -8,35 +8,12 @@ namespace BusinessLogicLayer
 {
     public class ProductService : IProductService
     {
-        private readonly ProductRepository _productRepository;
-
-        public ProductService(ProductRepository productRepository)
+        
+        public List<ProductModel> GetAllData()
         {
-            _productRepository = productRepository;
-        }
-        public void Create(ProductModel product)
-        {
-            _productRepository.Add(product);
+            return crud.GetAllData();
         }
 
-        public void Delete(Guid id)
-        {
-            _productRepository.Delete(id);
-        }
-
-        public List<ProductModel> GetAll()
-        {
-           return _productRepository.GetAll();
-        }
-
-        public ProductModel? GetById(Guid id)
-        {
-           return _productRepository.GetById(id);
-        }
-
-        public void Update(ProductModel product)
-        {
-            _productRepository.Update(product);
-        }
+     
     }
 }
