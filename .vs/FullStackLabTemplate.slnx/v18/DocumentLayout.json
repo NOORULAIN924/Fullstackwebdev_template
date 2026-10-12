@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\230924\\Downloads\\Full Stack Web Development Labs\\FullStackLabTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\230924\\downloads\\full stack web development labs\\fullstacklabtemplate\\dataaccesslayer\\dblhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCCEB3-DD88-F8C0-89A3-FD31A7C54F23}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dblhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dblhelper.cs",
+              "DocumentMoniker": "C:\\Users\\230924\\Downloads\\Full Stack Web Development Labs\\FullStackLabTemplate\\DataAccessLayer\\dblhelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\dblhelper.cs",
+              "ToolTip": "C:\\Users\\230924\\Downloads\\Full Stack Web Development Labs\\FullStackLabTemplate\\DataAccessLayer\\dblhelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\dblhelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:39:06.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
